@@ -40,7 +40,7 @@ git rebase applies commits on top of another branch to maintain a clean and line
 
 6. GitHub Repository Link
 
-https://github.com/kishan-maddeshiya/MERN_Assignment
+https://github.com/kishan-maddeshiya/MERN-Assignment
 
 Section 2: MySQL & PostgreSQL
 1. Difference between MySQL and PostgreSQL
