@@ -104,7 +104,7 @@ Lifting state up means moving shared state to a common parent so multiple compon
 
 6. React Practical GitHub Link
 
-https://github.com/Vivekkumar709/react-practice
+https://github.com/kishan-maddeshiya/employee-management-system
 
 Section 4: TypeScript Basics
 1. TypeScript introduction
@@ -131,7 +131,7 @@ Readonly properties cannot be modified once set.
 
 6. TypeScript GitHub Link
 
-https://github.com/Vivekkumar709/typescript-practice
+https://github.com/kishan-maddeshiya/Angular-PoolCarz-share-a-ride-with-other-
 
 Section 5: General Web Development
 1. REST API
